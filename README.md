@@ -1,5 +1,5 @@
 # PedSpawner
-A script that allows you to place static NPC around the map in FiveM
+A script that allows you to place static NPCs around the map in FiveM
 
 ### Use
 * Download the script and move it into your resource folder.
