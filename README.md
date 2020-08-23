@@ -39,7 +39,7 @@ To add your own NPC you will need to go inside the config.lua file and add a new
         ["ped"] = "s_m_y_marine_01",
         ["coords"] = {
             [1] = {
-                ["x"] = 470.84,
+                ["x"] = 475.84,
                 ["y"] = -1528.76,
                 ["z"] = 28.35,
                 ["h"] = -40.5,
@@ -49,3 +49,4 @@ To add your own NPC you will need to go inside the config.lua file and add a new
 ```
     
 * You will need to add something like the example above just before the last ```}``` under the ```Config.Location```
+* The above example will an NPC directly infront of the one already within the config file
