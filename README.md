@@ -1,13 +1,15 @@
 # PedSpawner
 A script that allows you to place static NPCs around the map in FiveM
 
+![Example of NPC](https://cdn.discordapp.com/attachments/686521233101291541/747103148363087912/2020-08-23_15_39_12-FiveM_-_Elijahs_Dev_Server.png)
+
 ### Use
 * Download the script and move it into your resource folder.
 * Add ```start pedSpawner``` into your server.cfg.
 * Run the server and the NPC will spawn at the coordinates specified in the config file.
 
 ## The Config
-```
+```lua
 Config = {}
 
 Config.Locations = {
@@ -34,7 +36,7 @@ Config.GodPeds = true --Enables/Disables if the peds can be killed
 
 ### Configuration
 To add your own NPC you will need to go inside the config.lua file and add a new location and NPC.
-```
+```lua
 ["example"] = {
         ["ped"] = "s_m_y_marine_01",
         ["coords"] = {
