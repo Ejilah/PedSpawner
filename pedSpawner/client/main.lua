@@ -1,7 +1,6 @@
 ----------------------------------------------
---					DO NOT					--
---				 EDIT THE CODE   			--
---				EDIT THE CONFIG.LUA			--
+-- DO NOT EDIT THE CODE
+-- EDIT THE CONFIG.LUA			
 ----------------------------------------------
 
 Citizen.CreateThread(function()
