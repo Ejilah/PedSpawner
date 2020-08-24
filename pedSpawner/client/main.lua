@@ -1,3 +1,9 @@
+----------------------------------------------
+--					DO NOT					--
+--				 EDIT THE CODE   			--
+--				EDIT THE CONFIG.LUA			--
+----------------------------------------------
+
 Citizen.CreateThread(function()
 	if Config.EnablePeds then
 		for eji,_ in pairs(Config.Locations) do
