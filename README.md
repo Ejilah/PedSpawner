@@ -52,3 +52,7 @@ To add your own NPC you will need to go inside the config.lua file and add a new
     
 * You will need to add something like the example above just before the last ```}``` under the ```Config.Location```
 * The above example will an NPC directly infront of the one already within the config file
+
+# Reporting Problems
+* Create an issue report and I'll have it fixed ASAP.
+* Another option would be to create the fix yourself and do a pull request with said fix.
